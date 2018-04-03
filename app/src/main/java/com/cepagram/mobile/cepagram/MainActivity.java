@@ -109,6 +109,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         mNewsRecyclerView.setHasFixedSize(true);
         mNewsRecyclerView.setLayoutManager(mLayoutManager);
 
+        // Notes
 //        mNewsAdapter = new NewsAdapter();
 //        mNewsRecyclerView.setAdapter(mNewsAdapter);
     }
